@@ -1,10 +1,10 @@
 # ushell-module-whenever
 > Unix shell module for whenever.
 
-## install:
+## installation
 ```shell
-npm i -S afeiship/ushell-module-whenever --registry=https://registry.npm.taobao.org
+npm i -S @feizheng/ushell-module-whenever
 ```
 
-## resources:
+## resources
 - https://github.com/javan/whenever

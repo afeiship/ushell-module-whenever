@@ -1,5 +1,5 @@
 {
-  "name": "ushell-module-whenever",
+  "name": "@feizheng/ushell-module-whenever",
   "version": "1.0.0",
   "description": "Unix shell module for whenever.",
   "main": "index.sh",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-whenever/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-whenever"
+  "homepage": "https://github.com/afeiship/ushell-module-whenever",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
