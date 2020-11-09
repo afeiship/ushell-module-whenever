@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-whenever",
+  "name": "@jswork/ushell-module-whenever",
   "version": "1.0.0",
   "description": "Unix shell module for whenever.",
   "main": "index.sh",

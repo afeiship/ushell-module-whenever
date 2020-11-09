@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-whenever
+npm i -S @jswork/ushell-module-whenever
 ```
 
 ## resources
